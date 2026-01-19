@@ -22,3 +22,5 @@ This project is a Python-based face recognition attendance system that uses Open
 
 ## Author
 Raj Laxmi
+
+this is my project
